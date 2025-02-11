@@ -13,7 +13,7 @@
 </h2>
 
 <h2 id=objective>:scroll: Objective</h2>
-Treinar a sintaxe de kotlin.
+Training a kotlin sintaxe.
 
 <h2 id=technology>:toolbox: Technology</h2>
 
