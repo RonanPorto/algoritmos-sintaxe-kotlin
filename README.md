@@ -2,15 +2,10 @@
 
 
 <p align="center">
- <a href="#status">Status</a> • 
  <a href="#objective">Objective</a> •
  <a href="#technology">Technology</a> • 
  <a href="#author">Author</a> •
 </p>
-
-<h2 align="center" id=status> 
-	:beginner: Initiated :beginner:
-</h2>
 
 <h2 id=objective>:scroll: Objective</h2>
 Training a kotlin sintaxe.
